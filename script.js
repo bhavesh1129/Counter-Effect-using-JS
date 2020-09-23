@@ -3,7 +3,7 @@ var followers = document.querySelector("#followers");
 
 let count = 1;
 setInterval(() => {
-    if (count < 644) {
+    if (count < 723) {
         count++;
         counter.innerText = count;
     }
