@@ -11,4 +11,4 @@ setInterval(() => {
 
 setTimeout(() => {
     followers.innerText = "Connections on LinkedIn!";
-}, 7000)
+}, 7500)
