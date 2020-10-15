@@ -3,7 +3,7 @@ var followers = document.querySelector("#followers");
 
 let count = 1;
 setInterval(() => {
-    if (count < 723) {
+    if (count < 1000) {
         count++;
         counter.innerText = count;
     }
@@ -11,4 +11,4 @@ setInterval(() => {
 
 setTimeout(() => {
     followers.innerText = "Connections on LinkedIn!";
-}, 7800)
+}, 11000)
