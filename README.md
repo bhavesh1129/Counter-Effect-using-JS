@@ -1,4 +1,4 @@
-**Link of the Project:https://bhavesh1129.github.io/Counter-Effect-using-JS/**
+**Link to the Project:https://bhavesh1129.github.io/Counter-Effect-using-JS/**
 
 <img src="https://github.com/bhavesh1129/Counter-Effect-using-JS/blob/master/Image.PNG" width="800" height="500">
 
